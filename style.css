@@ -62,6 +62,10 @@ header h1 {
   overflow: hidden;
 }
 
+.menulateral h3:nth-child(1) {
+  padding-top: 50px;
+}
+
 .menulateral .menuheader {
   width: 100%;
   padding: 40px 20px 15px 35px;
@@ -83,7 +87,7 @@ header h1 {
 }
 
 .menulateral .menu .menuiten .menulink:hover {
-  background-color: #c8c8c8;
+  background-color: #f3f3f3;
 }
 
 .conteudo {
@@ -91,7 +95,7 @@ header h1 {
 }
 
 .conteudo .cont-cont {
-  margin: 30px 40px 40px 40px;
+  margin: 30px 40px 80px 40px;
 }
 
 .conteudo .cont-cont .titulo {
@@ -114,5 +118,45 @@ header h1 {
 
 .conteudo .cont-cont .cont-imagem img {
   width: 90%;
+}
+
+.conteudo .cont-cont .cont-imagem2 {
+  margin-top: 60px;
+}
+
+.conteudo .cont-cont .cont-imagem2 img {
+  width: 20%;
+}
+
+.conteudo .cont-cont .cont-imagem3 {
+  margin-top: 60px;
+}
+
+.conteudo .cont-cont .cont-imagem3 img {
+  width: 20px;
+}
+
+.conteudo .cont-cont .cont-imagem4 {
+  margin-top: 60px;
+}
+
+.conteudo .cont-cont .cont-imagem4 img {
+  width: 50%;
+}
+
+.conteudo .cont-cont .cont-imagem5 {
+  margin-top: 60px;
+}
+
+.conteudo .cont-cont .cont-imagem5 img {
+  width: 60%;
+}
+
+.conteudo .cont-cont .cont-imagem6 {
+  margin-top: 60px;
+}
+
+.conteudo .cont-cont .cont-imagem6 img {
+  width: 60px;
 }
 /*# sourceMappingURL=style.css.map */
